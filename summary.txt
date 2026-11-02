@@ -1,0 +1,11 @@
+DATA CLEANING & REPORTING SUMMARY
+=================================
+Rows before cleaning : 128
+Duplicates removed   : 8
+Rows after cleaning  : 119
+Missing values       : 24 -> 0
+
+Total sales          : 18,286,478.00
+Average order value  : 153,667.88
+Top region           : West (4,916,193.00)
+Top product          : Tablet (6,146,906.00)
